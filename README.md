@@ -1,12 +1,11 @@
 # Project-Valkyrie
 A DIY High-Temp 3D Printer project designed by professionals to be a premium DIY FFF/FDM 3d printer
-- https://vkingprinter.com/project-valkyrie/ 
 - https://discord.gg/C77tsY5
-- CAD View: https://a360.co/3b4RmPg
+- CAD web view: https://a360.co/3YxhjgS
 
-## Specifications for Designed Size (Scaleable)
+## Specifications for Designed Size
 - Frame footprint - 500X520X750
-- Print volume - 310X310X300
+- Print volume - 320X320X280
 - Weight ~45Kg
 - Option to print high temp materials up to 450C nozzle temp
 ## Valkyrie Main Features
